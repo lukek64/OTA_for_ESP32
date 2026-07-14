@@ -1,0 +1,15 @@
+{
+    "name": "OTAHelper",
+    "version": "1.0.8",
+    "description": "Simple WiFi OTA helper for ESP32 PlatformIO projects",
+    "keywords": [
+        "ESP32",        "OTA",
+        "WiFi"
+    ],
+    "frameworks": [
+        "arduino"
+    ],
+    "platforms": [
+        "espressif32"
+    ]
+}
